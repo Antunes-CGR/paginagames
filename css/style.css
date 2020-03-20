@@ -1,7 +1,36 @@
 body{
+<<<<<<< HEAD
     text-align: center;
     background-image: url(../img/backGraundSmite.jpg) important!; 
 }
 .Smite {
     position: relative;
+=======
+    position: relative;
+    background-image: url(../img/bkgok.png);
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+}
+img {
+    width: 30%;
+    height: 300px;
+    overflow: hidden;
+}
+.container{
+    opacity: 1,0;
+}
+
+.ibagens{
+    width:600px;
+    height:600px;
+    max-height: 10px;
+    float:center; 
+    display: initial;
+    margin: auto;
+}
+#titulo{
+    text-align: left;
+    color: rgb(255, 255, 255);
+>>>>>>> 6cf0da43f7ee26994ddc36685d7b53c2cb505eb2
 }
