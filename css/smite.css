@@ -1,0 +1,16 @@
+body {
+    background-image: url(../img/bkgs.pg);
+    background-size: cover;
+}
+.titulo{
+    font-size: small;
+    color: rgb(203, 216, 27);
+    width: 800px;
+    border: solid;
+    text-align: center;
+    margin: 30px auto;
+}
+#imgSmite{
+    border: black solid;
+
+}

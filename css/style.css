@@ -1,3 +1,7 @@
-.body{
+body{
     text-align: center;
+    background-image: url(../img/backGraundSmite.jpg) important!; 
+}
+.Smite {
+    position: relative;
 }
