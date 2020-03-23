@@ -1,0 +1,38 @@
+body {
+    /*leitura da 'background-img' em cascata*/
+    background-image: linear-gradient(rgba(0,0,0,1),rgba(0,0,0,0)), url(../img/bkgsmt.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+}
+.fixo{
+    color: blanchedalmond;
+     position: fixed;
+     top: 0;
+     left: 0;
+     width: 100%;
+     padding: 0px;
+     text-align: center;
+
+}
+.imgSmite{
+    border: rgb(218, 218, 218) solid;
+    width: 500px;
+    position: absolute;
+    left: 60%;
+    top: 45%;
+   
+}
+#texto{
+    border: rgb(180, 180, 180) solid;
+    color: blanchedalmond;
+    width: 500px;
+    position: absolute;
+    top: 30%;
+    
+}
+.comentarios{
+    position: relative;
+    top: 80%;
+}
+
+

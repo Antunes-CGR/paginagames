@@ -1,4 +1,11 @@
 body{
+<<<<<<< HEAD
+    text-align: center;
+    background-image: url(../img/backGraundSmite.jpg) important!; 
+}
+.Smite {
+    position: relative;
+=======
     position: relative;
     background-image: url(../img/bkgok.png);
     background-position: center;
@@ -25,4 +32,5 @@ img {
 #titulo{
     text-align: left;
     color: rgb(255, 255, 255);
+>>>>>>> 6cf0da43f7ee26994ddc36685d7b53c2cb505eb2
 }
